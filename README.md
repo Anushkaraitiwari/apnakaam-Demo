@@ -1,4 +1,5 @@
 # apnakaam-Demo
 This is my first git repository
 <br>
-Author - Anushka Rai
+Author - Anushka(apnakaam)
+Author - Anushka (hello-world)
